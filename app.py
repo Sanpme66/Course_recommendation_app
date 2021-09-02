@@ -120,7 +120,7 @@ def main():
 
 	else:
 		st.subheader("About")
-		st.markdown(""" Built by * **Sanjay S G** """)
+		st.markdown(""" Built by  **Sanjay S G** """)
 		st.text("Built with curiosity ")
 		st.markdown("""
 		This app shows the list of the **Online Courses** (from [Udemy.com](https://www.udemy.com)) 
