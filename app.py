@@ -120,7 +120,7 @@ def main():
 
 	else:
 		st.subheader("About")
-		st.tet("Built by Sanjay S G)
+		st.tet("Built by Sanjay S G")
 		st.text("Built with Streamlit & Pandas")
 		st.markdown("""
 		This app shows the list of the **Udemey Courses** (from Udemy) and its corresponding **stock closing price** (year-to-date)!
