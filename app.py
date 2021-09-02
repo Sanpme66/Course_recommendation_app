@@ -120,7 +120,13 @@ def main():
 
 	else:
 		st.subheader("About")
+		st.tet("Built by Sanjay S G)
 		st.text("Built with Streamlit & Pandas")
+		st.markdown("""
+		This app shows the list of the **Udemey Courses** (from Udemy) and its corresponding **stock closing price** (year-to-date)!
+		* **Python libraries:** base64, pandas, streamlit, numpy, matplotlib, seaborn
+		* **Data source:** [Wikipedia](https://www.udemy.com/).
+		""")
 
 
 if __name__ == '__main__':
