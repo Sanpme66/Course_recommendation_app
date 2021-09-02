@@ -121,11 +121,12 @@ def main():
 	else:
 		st.subheader("About")
 		st.text("Built by Sanjay S G")
-		st.text("Built with Streamlit & Pandas")
+		st.text("Built with curiosity ")
 		st.markdown("""
-		This app retrieves the list of the **S&P 500** (from Wikipedia) and its corresponding **stock closing price** (year-to-date)!
+		This app shows the list of the **Online Courses** (from * **Udemy.com** [linkedin](https://www.udemy.com)) 
+		and its gives a **Course Recommendation** based on your interest.
 		* **Python libraries:** base64, pandas, streamlit, numpy, matplotlib, seaborn
-		* **Data source:** [Wikipedia](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
+		* **Contact me:** [linkedin](https://www.linkedin.com/in/sanjaysg6633/).
 		""")
 		
 
