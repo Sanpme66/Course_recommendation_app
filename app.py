@@ -120,10 +120,10 @@ def main():
 
 	else:
 		st.subheader("About")
-		st.text("Built by Sanjay S G")
+		st.text("Built by * **Sanjay S G**")
 		st.text("Built with curiosity ")
 		st.markdown("""
-		This app shows the list of the **Online Courses** (from * **Udemy.com** [linkedin](https://www.udemy.com)) 
+		This app shows the list of the **Online Courses** (from [Udemy.com](https://www.udemy.com)) 
 		and its gives a **Course Recommendation** based on your interest.
 		* **Python libraries:** base64, pandas, streamlit, numpy, matplotlib, seaborn
 		* **Contact me:** [linkedin](https://www.linkedin.com/in/sanjaysg6633/).
