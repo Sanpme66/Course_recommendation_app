@@ -120,7 +120,7 @@ def main():
 
 	else:
 		st.subheader("About")
-		st.tet("Built by Sanjay S G")
+		st.text("Built by Sanjay S G")
 		st.text("Built with Streamlit & Pandas")
 		
 
